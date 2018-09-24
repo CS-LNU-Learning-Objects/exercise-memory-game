@@ -28,6 +28,7 @@ In the memory game, images are randomly placed face-down in a grid. Each turn, t
 ### To try out to learn even more
  * Do you want to use types for the game or just use a function create game boards?
  * Can you solve the assignment by setting only one click-eventlistener per memory game?
+ * Why not try to use Custom Elements in the exercise?
  
 ### Extending the game
  * Two players and a bigger board? Each player gets a pile of matched pairs. The largest pile in the end wins.
